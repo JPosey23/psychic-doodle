@@ -1,0 +1,2 @@
+# psychic-doodle
+JAMF Helper
